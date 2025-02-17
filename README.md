@@ -39,4 +39,4 @@ ChatRecipeey:
 ChatRecipeey offers a convenient and user-friendly solution for discovering new recipes, receiving cooking assistance, and enhancing your culinary skills. With its intuitive chat interface and comprehensive features, ChatRecipeey is your ultimate cooking companion. Get started today and elevate your cooking experience with ChatRecipeey!
 
 ## Feedback:
-We value your feedback! If you have any suggestions, encounter any issues, or want to contribute to ChatRecipeey, please don't hesitate to reach out. You can provide feedback by opening an issue on our GitHub repository or contacting us directly via seifwafikk@gmail.com. Your input helps us improve ChatRecipeey and deliver a better cooking experience for our users.
+We value your feedback! If you have any suggestions, encounter any issues, or want to contribute to ChatRecipeey, please don't hesitate to reach out! You can provide feedback by opening an issue on our GitHub repository or contacting us directly via seifwafikk@gmail.com. Your input helps us improve ChatRecipeey and deliver a better cooking experience for our users.
